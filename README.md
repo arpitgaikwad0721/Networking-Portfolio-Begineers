@@ -50,13 +50,6 @@ The following hands-on environments were fully constructed, tested, and validate
 
 ---
 
-## 👔 Enterprise Architecture Case Studies
-
-Applying a complete 7-step network design blueprint (identifying uses, listing tasks, picking topologies, choosing equipment, mapping schematics, writing specifications, and building), I drafted architecture solutions for two business case studies:
-1. **H&M Law Firm Design Proposal:** Translated strict commercial operations into a high-availability technical blueprint ensuring client document protection.
-2. **San Bernardo Dentistry Network Blueprint:** Developed a secure healthcare environment separating corporate management systems, sensitive medical databases, and open guest Wi-Fi zones using crisp network boundaries.
-
----
 
 ## 🚀 Active Career Track & Learning Roadmap
 To prepare for a dedicated career in **Cybersecurity (SOC Analyst / Security Operations)**, I am following a structured path that builds robust system administration skills, advances into enterprise-level network certification, and culminates in standard security defense verification.
@@ -79,4 +72,4 @@ To prepare for a dedicated career in **Cybersecurity (SOC Analyst / Security Ope
 To verify my completion of this curriculum and my hands-on participation in all course milestones, please see the official documents uploaded directly to this repository:
 
 * **Official Course Completion Certificate:** [View Certificate PDF](./Certificate.pdf)
-* **Course Progress Verification:** [View Completion Screenshot](./Completion-Screenshot.png)
+* **Course Progress Verification:** [View Completion Screenshot](./Udemy_Networking_For_Begineers.jpg)
