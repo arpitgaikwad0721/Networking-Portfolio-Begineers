@@ -71,5 +71,5 @@ To prepare for a dedicated career in **Cybersecurity (SOC Analyst / Security Ope
 ## 📜 Course Credentials & Verification
 To verify my completion of this curriculum and my hands-on participation in all course milestones, please see the official documents uploaded directly to this repository:
 
-* **Official Course Completion Certificate:** [View Certificate PDF](./Certificate.pdf)
+* **Official Course Completion Certificate:** [View Certificate PDF](./Udemy_Certificate_Networking.pdf)
 * **Course Progress Verification:** [View Completion Screenshot](./Udemy_Networking_For_Begineers.jpg)
